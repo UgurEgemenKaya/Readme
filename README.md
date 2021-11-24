@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Uğur Egemen KAYA</h1>
-<h3 align="center">BSc. Computer Engineer, Graduated from Karabük University GPA:2,93/4.00 "Ordinary person who codes and cooks. "</h3>
+<h3 align="center">BSc. Computer Engineer, Graduated from Karabük University GPA:2,93/4.00 <br> "Ordinary person who codes and cooks. "</h3>
 
 - 🔭 I’m currently working on **Test Automation Bootcamp - CicekSepeti.com / Lolaflora.com**
 
