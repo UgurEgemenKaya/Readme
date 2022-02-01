@@ -3,9 +3,8 @@
 
 
 <br><br>
-- 🔭 I’m currently working on **Test Automation Bootcamp - CicekSepeti.com / Lolaflora.com**
 
-- 🌱 I’m currently learning **Test Automation**
+- 🌱 I’m currently improving my **Test Automation** skills
 
 - 📫 How to reach me **https://www.linkedin.com/in/ugur-egemen-kaya/**
 <br>
