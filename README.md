@@ -4,7 +4,7 @@
 
 <br><br>
 
-- 🌱 I’m currently improving my **Test Automation** skills
+- 🌱 I’m currently Test Engineer at Havelsan via Proven Information Technologies
 
 - 📫 How to reach me **https://www.linkedin.com/in/ugur-egemen-kaya/**
 <br>
