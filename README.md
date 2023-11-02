@@ -4,7 +4,7 @@
 
 <br><br>
 
-- 🌱 I’m currently Test Engineer at Havelsan via Proven Information Technologies
+- 🌱 I’m currently Software Testing Specialist @ Turksat | Agile Test Automation Expert
 
 - 📫 How to reach me **https://www.linkedin.com/in/ugur-egemen-kaya/**
 <br>
